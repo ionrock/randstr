@@ -16,7 +16,7 @@ requirements = [
 
 setup(
     name='randstr',
-    version='0.1.1',
+    version='0.1.2',
     description='Create a random string.',
     long_description=readme,
     author='Eric Larson',
