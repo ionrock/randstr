@@ -17,7 +17,7 @@ requirements = [
 setup(
     name='randstr',
     version='0.1.0',
-    description='Python Boilerplate contains all the boilerplate you need to create a Python package.',
+    description='Create a random string.',
     long_description=readme,
     author='Eric Larson',
     author_email='eric@ionrock.org',
@@ -29,7 +29,7 @@ setup(
                  'randstr'},
     include_package_data=True,
     install_requires=requirements,
-    license="BSD",
+    license='BSD',
     zip_safe=False,
     keywords='randstr',
     classifiers=[
