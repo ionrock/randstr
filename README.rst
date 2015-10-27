@@ -2,7 +2,7 @@
 randstr
 =======
 
-.. image:: https://pypip.in/d/randstr/badge.png
+.. image:: https://img.shields.io/pypi/v/randstr.svg
         :target: https://pypi.python.org/pypi/randstr
 
 Sometimes you just want a random string. For those times, there is `randstr`.
